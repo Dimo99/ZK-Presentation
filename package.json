@@ -1,0 +1,18 @@
+{
+  "name": "voting",
+  "version": "0.0.1",
+  "description": "Voting example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voting",
+    "zksnark"
+  ],
+  "devDependencies": {
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "snarkjs": "^0.5.0"
+  }
+}
